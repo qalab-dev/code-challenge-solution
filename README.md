@@ -12,6 +12,14 @@ Using the two in conjunction is one of the fastest ways to build a web app.
 
 By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
 
+# Installation
+
+1. Clone the repository
+2. Run npm install to install the dependencies
+3. Run npm run dev to start the development server
+4. Run npm run storybook to start the storybook server
+5. Run npm run test to run the tests
+
 # Tech Challenge
 
 Create cricket player app
